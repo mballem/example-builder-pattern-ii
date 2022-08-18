@@ -10,7 +10,7 @@
 
 ### 🏷️ Diagrama de classes do projeto base 
 
-<img src="https://www.mballem.com/wp-content/uploads/2014/10/diagram-domain-package.png" alt="Diagrama de classes do projeto base" style="height: 80%; width:80%;"/>
+<img src="https://www.mballem.com/wp-content/uploads/2014/10/diagram-domain-package.png" alt="Diagrama de classes do projeto base" style="height: 100%; width:100%;"/>
 
 #### Código fonte da interface ArtigoBuider
 ~~~java
